@@ -1,0 +1,10 @@
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\Selection_Sort\Selection_Sort\bin\Debug\Selection_Sort.exe.config
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\Selection_Sort\Selection_Sort\bin\Debug\Selection_Sort.exe
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\Selection_Sort\Selection_Sort\bin\Debug\Selection_Sort.pdb
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\Selection_Sort\Selection_Sort\obj\Debug\Selection_Sort.csprojAssemblyReference.cache
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\Selection_Sort\Selection_Sort\obj\Debug\Selection_Sort.Form1.resources
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\Selection_Sort\Selection_Sort\obj\Debug\Selection_Sort.Properties.Resources.resources
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\Selection_Sort\Selection_Sort\obj\Debug\Selection_Sort.csproj.GenerateResource.cache
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\Selection_Sort\Selection_Sort\obj\Debug\Selection_Sort.csproj.CoreCompileInputs.cache
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\Selection_Sort\Selection_Sort\obj\Debug\Selection_Sort.exe
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\Selection_Sort\Selection_Sort\obj\Debug\Selection_Sort.pdb

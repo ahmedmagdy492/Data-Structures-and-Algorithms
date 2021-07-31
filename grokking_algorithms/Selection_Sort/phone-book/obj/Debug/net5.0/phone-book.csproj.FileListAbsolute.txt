@@ -1,0 +1,16 @@
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\bin\Debug\net5.0\phone-book.exe
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\bin\Debug\net5.0\phone-book.deps.json
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\bin\Debug\net5.0\phone-book.runtimeconfig.json
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\bin\Debug\net5.0\phone-book.runtimeconfig.dev.json
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\bin\Debug\net5.0\phone-book.dll
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\bin\Debug\net5.0\ref\phone-book.dll
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\bin\Debug\net5.0\phone-book.pdb
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\obj\Debug\net5.0\phone-book.csprojAssemblyReference.cache
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\obj\Debug\net5.0\phone-book.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\obj\Debug\net5.0\phone-book.AssemblyInfoInputs.cache
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\obj\Debug\net5.0\phone-book.AssemblyInfo.cs
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\obj\Debug\net5.0\phone-book.csproj.CoreCompileInputs.cache
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\obj\Debug\net5.0\phone-book.dll
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\obj\Debug\net5.0\ref\phone-book.dll
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\obj\Debug\net5.0\phone-book.pdb
+E:\Dev\ds_study\grokking_algorithms\Selection_Sort\phone-book\obj\Debug\net5.0\phone-book.genruntimeconfig.cache

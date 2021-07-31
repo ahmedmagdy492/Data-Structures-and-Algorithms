@@ -1,0 +1,16 @@
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\bin\Debug\net5.0\Arrays and Linked Lists.exe
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\bin\Debug\net5.0\Arrays and Linked Lists.deps.json
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\bin\Debug\net5.0\Arrays and Linked Lists.runtimeconfig.json
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\bin\Debug\net5.0\Arrays and Linked Lists.runtimeconfig.dev.json
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\bin\Debug\net5.0\Arrays and Linked Lists.dll
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\bin\Debug\net5.0\ref\Arrays and Linked Lists.dll
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\bin\Debug\net5.0\Arrays and Linked Lists.pdb
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\obj\Debug\net5.0\Arrays and Linked Lists.csprojAssemblyReference.cache
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\obj\Debug\net5.0\Arrays and Linked Lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\obj\Debug\net5.0\Arrays and Linked Lists.AssemblyInfoInputs.cache
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\obj\Debug\net5.0\Arrays and Linked Lists.AssemblyInfo.cs
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\obj\Debug\net5.0\Arrays and Linked Lists.csproj.CoreCompileInputs.cache
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\obj\Debug\net5.0\Arrays and Linked Lists.dll
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\obj\Debug\net5.0\ref\Arrays and Linked Lists.dll
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\obj\Debug\net5.0\Arrays and Linked Lists.pdb
+E:\Dev\ds_study\grokking_algorithms\Arrays and Linked Lists\obj\Debug\net5.0\Arrays and Linked Lists.genruntimeconfig.cache
