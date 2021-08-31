@@ -1,0 +1,15 @@
+base case:
+when one side is multiple of the other
+recursive case:
+squareCount = round(w / h)
+leftSpace = w - (h * squareCount)
+if(leftSpace == 0)
+  return h
+biggest_square_size(h, leftSpace)
+
+example:
+1680 / 640 => round(2.625) => 2
+left = 1680 - (640 *2) = 400
+
+640 / 400 = round(1.6) = 1
+left = 640 - 400 * 1 = 240

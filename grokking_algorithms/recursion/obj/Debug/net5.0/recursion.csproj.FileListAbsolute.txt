@@ -1,0 +1,16 @@
+E:\dev\ds_study\grokking_algorithms\recursion\bin\Debug\net5.0\recursion.exe
+E:\dev\ds_study\grokking_algorithms\recursion\bin\Debug\net5.0\recursion.deps.json
+E:\dev\ds_study\grokking_algorithms\recursion\bin\Debug\net5.0\recursion.runtimeconfig.json
+E:\dev\ds_study\grokking_algorithms\recursion\bin\Debug\net5.0\recursion.runtimeconfig.dev.json
+E:\dev\ds_study\grokking_algorithms\recursion\bin\Debug\net5.0\recursion.dll
+E:\dev\ds_study\grokking_algorithms\recursion\bin\Debug\net5.0\ref\recursion.dll
+E:\dev\ds_study\grokking_algorithms\recursion\bin\Debug\net5.0\recursion.pdb
+E:\dev\ds_study\grokking_algorithms\recursion\obj\Debug\net5.0\recursion.csprojAssemblyReference.cache
+E:\dev\ds_study\grokking_algorithms\recursion\obj\Debug\net5.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\ds_study\grokking_algorithms\recursion\obj\Debug\net5.0\recursion.AssemblyInfoInputs.cache
+E:\dev\ds_study\grokking_algorithms\recursion\obj\Debug\net5.0\recursion.AssemblyInfo.cs
+E:\dev\ds_study\grokking_algorithms\recursion\obj\Debug\net5.0\recursion.csproj.CoreCompileInputs.cache
+E:\dev\ds_study\grokking_algorithms\recursion\obj\Debug\net5.0\recursion.dll
+E:\dev\ds_study\grokking_algorithms\recursion\obj\Debug\net5.0\ref\recursion.dll
+E:\dev\ds_study\grokking_algorithms\recursion\obj\Debug\net5.0\recursion.pdb
+E:\dev\ds_study\grokking_algorithms\recursion\obj\Debug\net5.0\recursion.genruntimeconfig.cache
