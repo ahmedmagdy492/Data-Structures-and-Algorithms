@@ -1,0 +1,6 @@
+1.Base Case:
+	when low >= high
+2.Recursive Case:
+	mid = (low + high) / 2
+	1. binary_search(low, mid)
+	2. binary_search(mid + 1, high)

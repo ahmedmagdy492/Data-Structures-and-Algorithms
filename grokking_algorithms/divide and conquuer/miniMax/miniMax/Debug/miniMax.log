@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\Dev\ds_study\grokking_algorithms\divide and conquuer\miniMax\miniMax\Main.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+E:\Dev\ds_study\grokking_algorithms\divide and conquuer\miniMax\miniMax\Main.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+E:\Dev\ds_study\grokking_algorithms\divide and conquuer\miniMax\miniMax\Main.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+  miniMax.vcxproj -> E:\Dev\ds_study\grokking_algorithms\divide and conquuer\miniMax\Debug\miniMax.exe

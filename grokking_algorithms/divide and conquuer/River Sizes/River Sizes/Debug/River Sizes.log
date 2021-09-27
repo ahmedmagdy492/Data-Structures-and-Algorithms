@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\Dev\ds_study\grokking_algorithms\divide and conquuer\River Sizes\River Sizes\Main.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+E:\Dev\ds_study\grokking_algorithms\divide and conquuer\River Sizes\River Sizes\Main.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+  River Sizes.vcxproj -> E:\Dev\ds_study\grokking_algorithms\divide and conquuer\River Sizes\Debug\River Sizes.exe

@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\Dev\ds_study\grokking_algorithms\divide and conquuer\biggest square size\Maximum Sub Array\Maximum Sub Array\Main.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+E:\Dev\ds_study\grokking_algorithms\divide and conquuer\biggest square size\Maximum Sub Array\Maximum Sub Array\Main.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+E:\Dev\ds_study\grokking_algorithms\divide and conquuer\biggest square size\Maximum Sub Array\Maximum Sub Array\Main.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+  Maximum Sub Array.vcxproj -> E:\Dev\ds_study\grokking_algorithms\divide and conquuer\biggest square size\Maximum Sub Array\Debug\Maximum Sub Array.exe
