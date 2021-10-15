@@ -1,0 +1,5 @@
+1.the running time of the operations on hash tables relys on the hash function and whether that hash function produce many collisions or not.
+
+2.to avoid collisions you need to do the following:
+    1.a low load factor
+    2.a good hash function

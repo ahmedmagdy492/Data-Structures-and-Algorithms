@@ -1,0 +1,51 @@
+the simplest possible array that the quick sort can sort
+Base Case:
+1.[] empty array
+2.[1] an array with on element
+Recursive Case:
+1.call quickSort(smallerNumbers) + pivot + quickSort(largerNumbers)
+
+Solution:
+1.if arr len < 2:
+2.  ret arr
+3.else if len == 2:
+4.  if(arr[0] > arr[1]):
+5.      swap(arr[0], arr[1])
+6.else:
+7.  pick pivot element pivot
+7.  quickSort([el1, el2]) + pivot + quitSort([])
+
+Steps in Plain English:
+1.pick a pivot number
+2.partition the array by getting the smaller numbers than the pivot and the larger numbers than the pivot
+3.call the quick sort recursivly on the 2 sub arrays
+4.combine the result of the 2 recursive calls and the pivot
+
+functions to implement:
+1.int[] get_smaller_numbers(pivot, arr)
+2.int[] get_larger_numbers(pivot, arr)
+3.int[] combine(smallerNumbers, pivot, largerNumbers)
+4.int[] quick_sort(arr)
+
+get_larger_numbers(pivot, arr):
+1.create new array call it newArr
+2.for n items do:
+3.  if ith item < pivot:
+4.      newArr.push (ith item)
+5.return newArr
+
+get_smaller_numbers(pivot, arr):
+1.create new array call it newArr
+2.for n times do:
+3.  if ith item > pivot:
+4.      newArr.push(ith item)
+5.return newArr
+
+combine(smallerNumbers, pivot, largerNumbers):
+1.create new array call it newArr
+2.for smallerNumbers length times do:
+3.  newArr.push(ith element)
+4.newArr.push(pivot)
+5.for largerNumbers length times do:
+6.  newArr.push(ith element)
+7.return newArr

@@ -1,0 +1,13 @@
+quick_sort(arr, start, end):
+1.if arr len < 2:
+2.  return arr
+3.if arr len == 2:
+4.  if arr[0] > arr[1]:
+5.    swap(arr[0], arr[1])
+6.else:
+7.  pivot_index = (start + end) / 2
+8.  smaller_numbers = get_smaller_numbers(arr, pivot_index)
+9.  larger_numbers = get_larger_numbers(arr, pivot_index)
+10. quick_sort(smaller_numbers, start, end)
+11. quick_sort(larger_numbers, start, end)
+12. return combine(smaller_numbers, arr[pivot_index], larger_numbers)
